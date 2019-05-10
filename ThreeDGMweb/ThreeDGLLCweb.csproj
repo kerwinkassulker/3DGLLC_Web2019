@@ -111,19 +111,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\3DGLLC_Logo.svg" />
     <Content Include="Selling.aspx" />
     <Content Include="Demo.aspx" />
     <Content Include="Rover4WD.aspx" />
     <Content Include="Rover.aspx" />
     <Content Include="Example.aspx" />
     <Content Include="Services.aspx" />
-    <Content Include="Images\ARexample.jpg" />
-    <Content Include="Images\OfflineExample.jpg" />
-    <Content Include="Images\OnlineExample.JPG" />
     <Content Include="SolutionAR.aspx" />
     <Content Include="SolutionOffline.aspx" />
     <Content Include="SolutionOnline.aspx" />
-    <Content Include="Images\3DGM_Logo_Nav.svg" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -143,7 +140,6 @@
     <None Include="Properties\PublishProfiles\3dguidedmarketing.com - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
-    <Content Include="Images\3DGM_Logo.svg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
